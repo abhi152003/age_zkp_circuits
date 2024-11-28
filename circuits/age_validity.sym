@@ -1,0 +1,9 @@
+1,1,0,main.isProofValid
+2,-1,0,main.birthTimestamp
+3,-1,0,main.currentTimestamp
+4,-1,0,main.minimumAgeInSeconds
+5,-1,0,main.timestampDiff
+6,-1,0,main.negativeDiff
+7,-1,0,main.ageConstraint
+8,-1,0,main.ageConstraintSquared
+9,-1,0,main.isPositive
